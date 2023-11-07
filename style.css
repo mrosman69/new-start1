@@ -1,0 +1,23 @@
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: brown;
+}
+.main{
+    width: 50%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.imag{
+    width:100%;
+   
+    
+
+}
